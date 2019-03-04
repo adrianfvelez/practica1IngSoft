@@ -5,9 +5,9 @@
 Equipo: Delta-Soft
 
 Integrantes:
-Leal Villegas Oscar Tadeo
-Monreal Gamboa Francisco Manuel
-Valderrama Silva Alejandro Tonatiuh
+Leal Villegas Oscar Tadeo,
+Monreal Gamboa Francisco Manuel,
+Valderrama Silva Alejandro Tonatiuh,
 Vélez Rivera Adrián Felipe
 
 El proyecto se compila con 'mvn clean install', y se corre con 'mvn tomcat7:run'
